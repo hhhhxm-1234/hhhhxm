@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	printf("first push files success\n");
+	printf("哈哈哈哈\n");
 
 	return 0;
 }
